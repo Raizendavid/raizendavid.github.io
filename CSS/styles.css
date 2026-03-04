@@ -1,7 +1,7 @@
 body {
 	background: 
 		linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),
-		url("../img/fondo.jpeg");
+		url("../IMG/Fondo.jpeg");
 	background-size: cover;
 	background-position: 50% 22%;
     color: #00ff66;
@@ -176,3 +176,4 @@ main {
     0% { clip-path: inset(60% 0 0 0); transform: translate(2px,2px); }
     100% { clip-path: inset(80% 0 0 0); transform: translate(-2px,-2px); }
 }
+
