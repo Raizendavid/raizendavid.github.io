@@ -25,7 +25,7 @@ main {
     height: 100vh;
     background:
 		linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
-        url("../img/blurred.png") 50% 22% / cover no-repeat;
+        url("../IMG/blurred.png") 50% 22% / cover no-repeat;
     z-index: -1;
 }
 .lineupex-bg {
@@ -39,7 +39,7 @@ main {
     height: 100vh;
     background:
 		linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
-        url("../img/Lineup2.png") 50% 29% / cover no-repeat;
+        url("../IMG/Lineup2.png") 50% 29% / cover no-repeat;
     z-index: -1;
 }
 @keyframes neonPulse {
@@ -176,4 +176,5 @@ main {
     0% { clip-path: inset(60% 0 0 0); transform: translate(2px,2px); }
     100% { clip-path: inset(80% 0 0 0); transform: translate(-2px,-2px); }
 }
+
 
